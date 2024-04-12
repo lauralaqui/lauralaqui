@@ -2,7 +2,7 @@
 
 Following a break to explore various aspects of the tech industry and beyond, I'm excited about reimmersing myself in front-end development. I'm currently enrolled in Scrimba's Frontend Developer Career Path, a self-paced bootcamp covering JavaScript, React, Firebase, RESTful APIs and UI design. Browse through my repositories to see what I've been working on lately. 
 
-<p align="left">📚 Currently learning: Advanced React, Next.js & Storybook.js <br> 🎲 Fun fact: I love cooking everything from scratch and feeding the people I love</p>
+<p align="left">📚 Currently learning: Accessibility, Next.js & Storybook.js <br> 🎲 Fun fact: I love cooking everything from scratch and feeding the people I love</p>
 
 ###
 
