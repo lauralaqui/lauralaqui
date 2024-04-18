@@ -1,13 +1,7 @@
 <h2 align="left">Hey, I'm Laura 👋 </h2>
 
 <p align="left">📚 Currently learning: Accessibility, Next.js & Storybook.js <br> 🎲 Fun fact: I love cooking everything from scratch and feeding the people I love</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
+<br>
 <div align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
